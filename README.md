@@ -5,5 +5,5 @@
    <subtitle>This feed contains all triggered alarms and warnings</subtitle>  
    <link href="https://communities.vmware.com/community/feeds/allcontent?community=3873" rel="self" />  
    <link href="https://communities.vmware.com/community/feeds/allcontent?community=3873" />  
-   <updated>2014-06-13T22:38:45.0020183+02:00</updated>  
+   <updated>2016-09-13T22:38:45.0020183+02:00</updated>  
  </feed>  
